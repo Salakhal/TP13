@@ -22,6 +22,9 @@ Note : le champ 'password' est transient, il n’a pas été enregistré → nul
  
 Voici un exemple de l'exécution du programme (screenshot) :
 
+<img width="917" height="260" alt="image" src="https://github.com/user-attachments/assets/d24f7a6e-0f6f-43df-9d16-44c05b308c05" />
+
+---
 
  ## Exercice 2 : Sérialisation Avancée avec Externalizable et Contrôle de Flux
 
@@ -47,4 +50,5 @@ Historique chargé :
  
 Voici un exemple de l'exécution du programme (screenshot) :
 
+<img width="862" height="208" alt="image" src="https://github.com/user-attachments/assets/0c0f0557-aa69-4a3a-afb1-e5ebc2c5965b" />
 
