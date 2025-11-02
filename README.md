@@ -1,6 +1,6 @@
  # TP 13 : Sérialisation
 
- ## Exercice 1 : Sérialisation et Désérialisation
+ ## Exercice 1 : Sérialisation et Désérialisation.
 
 ##  Objectif
 Apprendre à sauvegarder et restaurer des objets en Java à l’aide de l’interface `Serializable`.  
