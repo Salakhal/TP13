@@ -1,5 +1,24 @@
  # TP 13 : Sérialisation
 
+
+ ## structure du tp13:
+ ```
+
+ src/
+   └─ com/example/tp/
+      ├─ Exercice1/
+      │   ├─ Employee.java
+      │   ├─ Main.java
+      │   └─ SerializationUtil.java
+      │
+      ├─ Exercice2/
+      │   ├─ ChatHistory.java
+      │   ├─ ChatMessage.java
+      │   └─ Main.java
+      │
+      └─ README.md
+
+```
  ## Exercice 1 : Sérialisation et Désérialisation.
 
 ##  Objectif
